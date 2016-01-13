@@ -1,7 +1,7 @@
 Project marginsums
 ==================
 
-Statistical tools for margin sum based matrix null models from manuscript "Significance testing for presence-absence data".
+Statistical tools for margin sum based matrix null models from manuscript "Properties of fixed-fixed models and alternatives in presence-absence data analysis".
 
 Initialization
 --------------
